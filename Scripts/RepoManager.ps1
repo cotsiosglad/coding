@@ -1,5 +1,5 @@
 # Get github user PAT token
-$token = "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"
+$token = "<YOUR_PAT_TOKEN>"
 
 # Define the API endpoint for listing your own repositories
 $reposApiUrl = "https://api.github.com/user/repos"
